@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">exp7</string>
+    <string name="music_player_title">我的音乐</string>
+    <string name="no_song_playing">暂无播放歌曲</string>
+    <string name="select_song_hint">从下方列表选择一首歌曲开始播放</string>
+    <string name="unknown_title">未知歌曲</string>
+    <string name="unknown_artist">未知艺术家</string>
+    <string name="song_artist_and_duration">%1$s · %2$s</string>
+    <string name="permission_denied">未授予读取音乐权限，无法显示歌曲列表</string>
+    <string name="no_music_found">未找到音乐文件，请先向设备中导入音乐</string>
+    <string name="empty_music_list">未找到音乐文件\n请先向设备中导入音乐</string>
+
+    <string name="previous_song">上一首</string>
+    <string name="play_or_pause">播放或暂停</string>
+    <string name="stop_play">停止</string>
+    <string name="next_song">下一首</string>
+
+    <string name="notification_channel_name">音乐播放</string>
+    <string name="notification_channel_description">在通知栏显示当前播放的歌曲</string>
+    <string name="notification_idle_title">音乐播放器</string>
+    <string name="notification_idle_text">暂无播放的歌曲</string>
+    <string name="notification_paused">已暂停 · %1$s</string>
+</resources>
