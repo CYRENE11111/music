@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">exp7</string>
+    <string name="app_name">李飞乐2024110516</string>
     <string name="music_player_title">我的音乐</string>
     <string name="no_song_playing">暂无播放歌曲</string>
     <string name="select_song_hint">从下方列表选择一首歌曲开始播放</string>
